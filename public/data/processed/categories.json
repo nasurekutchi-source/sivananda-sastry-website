@@ -1,11 +1,11 @@
 {
-  "totalVideos": 11479,
+  "totalVideos": 11505,
   "categories": [
     {
       "id": "srimadbhagavatam",
       "name": "Srimadbhagavatam",
       "icon": "📖",
-      "videoCount": 2901,
+      "videoCount": 2907,
       "subcategories": [
         {
           "id": "prathama-skandha",
@@ -45,7 +45,7 @@
         {
           "id": "dashama-skandha",
           "name": "Dashama Skandha",
-          "videoCount": 219
+          "videoCount": 225
         },
         {
           "id": "dvadasha-skandha",
@@ -63,17 +63,17 @@
       "id": "ramayanam",
       "name": "Ramayanam",
       "icon": "🏹",
-      "videoCount": 2430,
+      "videoCount": 2436,
       "subcategories": [
         {
           "id": "bala-kanda",
           "name": "Bala Kanda",
-          "videoCount": 203
+          "videoCount": 204
         },
         {
           "id": "ayodhya-kanda",
           "name": "Ayodhya Kanda",
-          "videoCount": 187
+          "videoCount": 192
         },
         {
           "id": "aranya-kanda",
@@ -106,12 +106,12 @@
       "id": "mahabharatam",
       "name": "Mahabharatam",
       "icon": "⚔️",
-      "videoCount": 3282,
+      "videoCount": 3294,
       "subcategories": [
         {
           "id": "adi-parva",
           "name": "Adi Parva",
-          "videoCount": 384
+          "videoCount": 390
         },
         {
           "id": "sabha-parva",
@@ -156,7 +156,7 @@
         {
           "id": "shanti-parva",
           "name": "Shanti Parva",
-          "videoCount": 687
+          "videoCount": 693
         },
         {
           "id": "svargarohana-parva",
@@ -202,7 +202,7 @@
       "id": "spiritual-discourses",
       "name": "Spiritual Discourses",
       "icon": "🙏",
-      "videoCount": 2155,
+      "videoCount": 2157,
       "subcategories": [
         {
           "id": "untitled-discourses",
@@ -227,7 +227,7 @@
         {
           "id": "other-discourses",
           "name": "Other Discourses",
-          "videoCount": 185
+          "videoCount": 187
         },
         {
           "id": "magha-puranam",
